@@ -1,0 +1,36 @@
+
+r
+java:S3740*"/Provide the parametrized type for this generic.(¤¦Ş­8’Ç”Œø1J$d12e78a2-66f8-42a6-a3d3-7991ad37e52b
+
+java:S1192""FDefine a constant instead of duplicating this literal "hello" 4 times.(“¶ç€ıÿÿÿÿ8œÇ”Œø1J$8c4d0f7f-b519-4a11-bc4b-cda907ba9415
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™ˆ‰8 Ç”Œø1J$ca057d0c-6c49-4e17-b717-15db5ef38f2c
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÜœX8¢Ç”Œø1J$d733d882-1d55-4bbc-9ca2-dd1c8944e1e2
+„
+java:S1854*"ARemove this useless assignment to local variable "streamBuilder".(¤¦Ş­8¬Ç”Œø1J$ba678bca-7eee-473d-8976-6fdd029439c1
+
+java:S1854&">Remove this useless assignment to local variable "streamIter".(œ¤Óœ8®Ç”Œø1J$9cd3ebc9-727e-41e5-b8ae-05449ff9de1b
+…
+java:S1854""=Remove this useless assignment to local variable "streamGen".(“¶ç€ıÿÿÿÿ8°Ç”Œø1J$7df72e7c-caf9-406a-8776-638f1e278e9e
+€
+java:S1854"=Remove this useless assignment to local variable "streamArr".(Ñòë8²Ç”Œø1J$8167582c-46eb-4799-8274-e4c82e97382b
+Š
+java:S1854"BRemove this useless assignment to local variable "parallelStream".(ºÈ´×øÿÿÿÿ8´Ç”Œø1J$8c1f6460-4d9e-4156-9100-d6b15cc3198f
+}
+java:S1854":Remove this useless assignment to local variable "stream".(ææ–8¶Ç”Œø1J$b85217af-b2a6-460f-ba64-1939c9932ed9
+n
+java:S1481"+Remove this unused "stream" local variable.(ææ–8áÇ”Œø1J$c4952bc3-535e-492c-96e2-533b29c67129
+{
+java:S1481"3Remove this unused "parallelStream" local variable.(ºÈ´×øÿÿÿÿ8äÇ”Œø1J$595f17df-0e5d-4b1e-bd48-2e80c65ffc10
+q
+java:S1481".Remove this unused "streamArr" local variable.(Ñòë8åÇ”Œø1J$f8ccc4ce-aaac-4e6a-bb48-a04f0a24a3f6
+v
+java:S1481"".Remove this unused "streamGen" local variable.(“¶ç€ıÿÿÿÿ8æÇ”Œø1J$8deac4e8-a1ae-487f-84ad-5dd656b14150
+r
+java:S1481&"/Remove this unused "streamIter" local variable.(œ¤Óœ8çÇ”Œø1J$33473f2d-fb3d-48c0-b52d-21cfc90df5e1
+u
+java:S1481*"2Remove this unused "streamBuilder" local variable.(¤¦Ş­8èÇ”Œø1J$70b5c763-5cbf-4cf6-997c-d6015ba239bd
+m	java:S106/"+Replace this use of System.out by a logger.(¯ê§8ëÇ”Œø1J$0922ef18-4ff6-47f0-89d6-f778d7bd66cb
+r
+java:S16110"/Remove the parentheses around the "x" parameter(°¢ØÊ8îÇ”Œø1J$2b7ba963-199f-4197-8bed-d188a18285c3
+r	java:S1061"+Replace this use of System.out by a logger.(Óë›Åûÿÿÿÿ8ğÇ”Œø1J$1654a1e4-614a-4182-97e7-1e5b914d4312
+l	java:S1064"+Replace this use of System.out by a logger.(ã‡Î38óÇ”Œø1J$7c8e0302-a0b8-4d8b-a6d3-12e59a2a8eb1

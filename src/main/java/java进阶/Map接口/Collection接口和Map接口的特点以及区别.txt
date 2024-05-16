@@ -1,0 +1,19 @@
+Java中的Collection接口和Map接口都是容器类型，用于存储对象，但它们有着不同的特点和使用场景。
+
+Collection接口：
+1，Collection接口是所有集合类的根接口，它继承了Iterable接口，提供了一系列操作元素的方法，比如添加、删除、查找等。
+2，Collection接口的实现类包括List、Set和Queue三个子接口，其中List是有序可重复的集合，Set是无序不可重复的集合，
+   而Queue则是一种队列类型的集合。
+3，Collection接口的特点是可以存储各种对象类型的元素，并且需要保持元素的插入顺序。常用的实现类包括ArrayList、LinkedList和HashSet等。
+
+java进阶.Map接口：
+1，Map接口用于映射键值对（key-value）的关系，它可以将键映射到一个值上，在Map中每个键只能映射一个值，但多个键可以映射到相同的值上。
+2，Map接口中定义了与映射操作相关的方法，比如put、get、remove等，通过这些方法可以方便地操作键值对。
+3，Map接口的实现类通常包括HashMap、TreeMap和LinkedHashMap等，其中HashMap是最常用的实现类之一，
+   因为它提供了O(1)的时间复杂度，并且支持null值作为键或值。
+
+区别：
+1，Collection接口是将元素组织成集合，而Map接口是将键-值对组织成映射表。
+2，Collection接口可以存储各种对象类型的元素，并且需要保持元素的插入顺序，而Map接口需要映射键值对。
+3，Collection接口常用的实现类包括ArrayList、LinkedList和HashSet等，而Map接口常用的实现类包括HashMap、TreeMap和LinkedHashMap等。
+4，Collection接口提供了与元素操作相关的方法，而Map接口提供了与键值对操作相关的方法。

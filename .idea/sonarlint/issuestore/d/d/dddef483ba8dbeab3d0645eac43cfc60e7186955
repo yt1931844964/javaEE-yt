@@ -1,0 +1,39 @@
+
+¶
+java:S1192""nDefine a constant instead of duplicating this literal "_____________________________________________" 9 times.(µØº¸úÿÿÿÿ8ŒÃ”Œø1J$2569c3ea-8c4a-4c2e-8c7e-9b6299c596af
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡¾¶…şÿÿÿÿ8‘Ã”Œø1J$4f80da58-bccc-454d-920c-e04f4c38eef2
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÜœX8•Ã”Œø1J$52e2f322-3ff8-4b84-b302-b09bd22ef200
+‘
+java:S3655 "NCall "findAny.isPresent()" or "!findAny.isEmpty()" before accessing the value.(œ„ú¾8®Ã”Œø1J$584d22ce-7f54-428a-9939-3e61ff00334d
+ˆ
+java:S3655."FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(™ ƒ8²Ã”Œø1J$5093ec5a-7241-41c6-b0c5-17963f4fabe8
+
+java:S36551"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(¬ÄÎúÿÿÿÿ8°Ã”Œø1J$8050d2d3-55c1-415e-849f-27d5daf114ac
+š
+java:S3655"RCall "findFirst.isPresent()" or "!findFirst.isEmpty()" before accessing the value.(Å„»Äúÿÿÿÿ8¬Ã”Œø1J$c523adf5-9bf7-46bf-a9f8-0a9739618c11
+l	java:S106"+Replace this use of System.out by a logger.(³È„&8ºÃ”Œø1J$a5390b86-0da7-41a6-95a8-dc7a473a6fb3
+r	java:S106"+Replace this use of System.out by a logger.(Å„»Äúÿÿÿÿ8¾Ã”Œø1J$efdb34e3-c2b0-407f-be9a-a04b89167982
+m	java:S106 "+Replace this use of System.out by a logger.(œ„ú¾8ÀÃ”Œø1J$1b89faa5-ceff-4b95-a35a-75525adaf8a1
+m	java:S106!"+Replace this use of System.out by a logger.(î³ş’8ÂÃ”Œø1J$8a1b0d2d-6342-419b-8fd6-931cef710fd1
+r	java:S106""+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8ÄÃ”Œø1J$4b23fa5a-6ead-4bca-b5e6-8ed926f00ab4
+l	java:S106'"+Replace this use of System.out by a logger.(³È„&8ÇÃ”Œø1J$95b29e77-808c-4c98-acd0-15066f9448ca
+r	java:S106("+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8ÉÃ”Œø1J$9f6091f7-0ac6-44ca-97f4-a40e3943b150
+l	java:S106."+Replace this use of System.out by a logger.(™ ƒ8ÌÃ”Œø1J$5c02c729-394e-4f47-be54-db1b2024ec05
+r	java:S1061"+Replace this use of System.out by a logger.(¬ÄÎúÿÿÿÿ8ÏÃ”Œø1J$98fe5d40-95d2-4e3f-8128-ba9ce2744e24
+m	java:S1064"+Replace this use of System.out by a logger.(œïì8ÒÃ”Œø1J$3bd905aa-28bc-4a8e-af0e-fdc9203ce535
+m	java:S1067"+Replace this use of System.out by a logger.(Ë–’8ÕÃ”Œø1J$e1440498-7613-401b-a284-ae7290992a0f
+r	java:S106:"+Replace this use of System.out by a logger.(Œ›Ûıÿÿÿÿ8ØÃ”Œø1J$6b1a1413-694e-48f4-a17a-50cb2a92b8a8
+r	java:S106;"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8ÚÃ”Œø1J$6c4e0fdb-6f8e-4f6d-89bc-d16f0e1d1c9d
+m	java:S106@"+Replace this use of System.out by a logger.( ğ¸8ÜÃ”Œø1J$2d6fe1d4-7380-41b9-a877-29088c81f136
+r	java:S106A"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8ŞÃ”Œø1J$1fb0dbf5-9767-4e98-ac81-4d2c817db86a
+r	java:S106F"+Replace this use of System.out by a logger.(œ¨èÿÿÿÿÿ8àÃ”Œø1J$8907d147-84f9-4306-b359-7bd49b172d0a
+r	java:S106G"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8âÃ”Œø1J$12f2a5ed-97b2-4057-b317-d523cb7b0e26
+m	java:S106L"+Replace this use of System.out by a logger.(Á£ûà8åÃ”Œø1J$b9c4c68c-64a9-454d-9e3b-9fda19a384e7
+r	java:S106M"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8çÃ”Œø1J$607b7200-458b-49ce-90fc-248f03af76b0
+m	java:S106Y"+Replace this use of System.out by a logger.(æŞê8ìÃ”Œø1J$e2aada12-0606-4ab7-971f-68e587d0ed67
+r	java:S106Z"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8îÃ”Œø1J$4cd377e7-c9b1-4575-8aac-e14293405911
+r	java:S106_"+Replace this use of System.out by a logger.(ã½Ø…ÿÿÿÿÿ8ğÃ”Œø1J$86e4c887-7f04-476f-8c87-d7873988599b
+r	java:S106`"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8òÃ”Œø1J$57d1697c-5269-442a-96d5-7a648a153a40
+m	java:S106e"+Replace this use of System.out by a logger.(¦º¬ª8ôÃ”Œø1J$e574f2c6-db35-4b5a-b0a3-5744dda9ab53
+r	java:S106f"+Replace this use of System.out by a logger.(µØº¸úÿÿÿÿ8öÃ”Œø1J$c357f817-1c3f-46c5-b276-ba46cc07bf1d
+r	java:S106k"+Replace this use of System.out by a logger.(ôÊÒ¼ıÿÿÿÿ8øÃ”Œø1J$a79853c4-fc72-4907-8273-1f47a50343dc

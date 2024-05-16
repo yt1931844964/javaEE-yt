@@ -1,0 +1,19 @@
+
+ˆ	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(ç¸Ö¦8¿Ä”Œø1J$80b028cc-452e-4f86-a231-6ac9a013d8ed
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¬ŸĞúÿÿÿÿ8ÅÄ”Œø1J$6475ef85-b0b5-4cd2-bcdb-276e4471500d
+•
+java:S2095Š"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îŞÀ‘ûÿÿÿÿ8ìÄ”Œø1J$992c6b3c-21c6-4b5c-b49f-9524f8f5e083
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8íÄ”Œø1J$19042202-3709-4a52-88f8-1030a99834db
+r	java:S106U"+Replace this use of System.out by a logger.(¡ØªÒüÿÿÿÿ8ùÄ”Œø1J$c4a6db72-cd05-4502-8eae-08366e379ae4
+l	java:S106\"+Replace this use of System.out by a logger.(‹–¯:8üÄ”Œø1J$9fad94cc-d5ec-4c81-8fd8-e677125f5862
+r	java:S106^"+Replace this use of System.out by a logger.(£Õöüşÿÿÿÿ8şÄ”Œø1J$e2933fb6-d6cd-4339-9a24-dc7d9fa0fa15
+r	java:S106g"+Replace this use of System.out by a logger.(£Õöüşÿÿÿÿ8Å”Œø1J$da60c9b4-a1f6-4ec2-b0d8-c0a6494f7892
+o
+java:S3011w",This accessibility update should be removed.(˜ÂÓ˜8†Å”Œø1J$51d6b3c7-7803-4d39-a270-f6ebb991419d
+o
+java:S3011x",This accessibility bypass should be removed.(ª‚Ï¡8‡Å”Œø1J$36971895-3eae-4098-ac44-2db90ba30f0d
+r	java:S106y"+Replace this use of System.out by a logger.(Úü¯´øÿÿÿÿ8‰Å”Œø1J$4dfa2f41-49dd-4b0f-9dd3-354ed73a84e1
+n	java:S106€"+Replace this use of System.out by a logger.(†ºÀƒ8ŒÅ”Œø1J$993f1b77-3bf3-44ce-8fb1-a619481951c1
+n	java:S106–"+Replace this use of System.out by a logger.(Ò¿ß8—Å”Œø1J$becbd20b-2692-4d8b-9270-cc43063a1058
+s	java:S106ª"+Replace this use of System.out by a logger.(òš–†şÿÿÿÿ8Å”Œø1J$fd4113f4-ee49-4608-89d5-5863a621b0e6

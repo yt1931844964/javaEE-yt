@@ -1,0 +1,28 @@
+元注解（meta-annotation）是Java中的一类特殊注解，即用于注释其他注解的注解。通过使用元注解，可以为自定义的注解添加更多元信息，如作用范围、生命周期、目标元素等。
+
+Java中有四种元注解，分别是 @Retention、@Target、@Documented 和 @Inherited。
+
+@Retention：指定注解的生命周期。
+常用的生命周期包括：
+
+RetentionPolicy.SOURCE：注解只在源代码中存在，编译时被忽略；
+RetentionPolicy.CLASS：注解在编译时保留，但在运行时被忽略；
+RetentionPolicy.RUNTIME：注解在运行时保留，并可以通过反射等机制获取到。
+@Target：指定注解的作用范围。
+常用的作用范围包括：
+
+ElementType.TYPE：作用于类、接口、枚举等类型；
+ElementType.FIELD：作用于字段或属性；
+ElementType.METHOD：作用于方法；
+ElementType.PARAMETER：作用于方法的参数；
+ElementType.CONSTRUCTOR：作用于构造方法；
+ElementType.LOCAL_VARIABLE：作用于局部变量；
+ElementType.ANNOTATION_TYPE：作用于注解类型；
+ElementType.PACKAGE：作用于包。
+@Documented：指定注解是否包含在JavaDoc文档中。
+如果一个注解被标记了 @Documented，则在生成JavaDoc文档时会将该注解的信息包含在文档中。
+
+@Inherited：指定子类是否继承父类的注解。
+如果一个注解被标记了 @Inherited，并且被应用在一个父类上，则子类也会继承该注解。但是需要注意的是，这只针对类的继承关系，对于其他元素（如接口、方法等）的继承不起作用。
+
+使用元注解可以为自定义的注解添加更多的语义信息和功能特性，使得注解可以更加清晰、明确地表达其对应元素的作用和属性。

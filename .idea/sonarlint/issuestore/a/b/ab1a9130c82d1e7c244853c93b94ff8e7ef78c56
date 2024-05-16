@@ -1,0 +1,10 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8†Δ”ψ1J$98ec75f6-85fe-4bae-a258-80b88c1b65cf
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…π®8Δ”ψ1J$bef141c7-23ac-4146-bba1-14a4d620f922
+m	java:S106"+Replace this use of System.out by a logger.(­ –8•Δ”ψ1J$71c113a2-2a5a-4463-9875-0ed03bfca829
+}
+java:S6213#":Rename this variable to not match a restricted identifier.(¤Ν‰8—Δ”ψ1J$3a825818-2e35-4020-bc0e-a6d671312fb1
+m	java:S106#"+Replace this use of System.out by a logger.(¤Ν‰8™Δ”ψ1J$44030c46-02c6-4bfe-96bc-499f51830132
+΅
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8Δ”ψ1J$ad87ef50-6254-4d7e-bbe2-64a0dae65403
+m	java:S106<"+Replace this use of System.out by a logger.(­ –8ΆΔ”ψ1J$5832c6cd-90d3-4511-bd6d-0efd7b20f2d9

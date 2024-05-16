@@ -1,0 +1,53 @@
+Java提供了一种简单的方式来创建图形界面程序，即使用AWT（Abstract Window Toolkit）。AWT是Java标准库的一部分，它提供了一套跨平台的GUI（Graphical User Interface）编程接口，可以用于创建窗口、按钮、文本框、标签等各种组件。
+
+AWT组件的使用步骤如下：
+
+创建一个Frame对象，用于表示应用程序的主窗口。
+java
+Frame frame = new Frame("My Window");
+创建界面组件，例如按钮、文本框、标签等。
+java
+Button button = new Button("OK");
+TextField textField = new TextField(20);
+Label label = new Label("Enter your name:");
+将组件添加到窗口中。
+java
+frame.add(button);
+frame.add(textField);
+frame.add(label);
+设置布局管理器，用于控制组件的排列方式。
+java
+frame.setLayout(new FlowLayout());
+设置窗口大小，窗口可见性等属性。
+java
+frame.setSize(300, 200);
+frame.setVisible(true);
+完整的示例代码如下：
+
+java
+import java.awt.*;
+
+public class MyWindow {
+    public static void main(String[] args) {
+        // 创建Frame对象
+        Frame frame = new Frame("My Window");
+
+        // 创建按钮、文本框、标签等组件
+        Button button = new Button("OK");
+        TextField textField = new TextField(20);
+        Label label = new Label("Enter your name:");
+
+        // 将组件添加到窗口中
+        frame.add(button);
+        frame.add(textField);
+        frame.add(label);
+
+        // 设置布局管理器
+        frame.setLayout(new FlowLayout());
+
+        // 设置窗口大小，窗口可见性等属性
+        frame.setSize(300, 200);
+        frame.setVisible(true);
+    }
+}
+这样就创建了一个简单的窗口应用程序，其中包含了一个按钮、一个文本框和一个标签组件。用户可以输入文本并通过点击按钮触发相应的事件处理程序来进行处理。

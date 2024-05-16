@@ -1,0 +1,14 @@
+1,装填因子，负载因子，加载因子为什么是0.75；
+  答：装填因子设置为1:空间利用率得到了很大的满足,很容易碰撞,产生链表->查询效率低
+  装填因子设置为0.5:碰撞的概率低,扩容,产生链表的几率低,查询效率高,空间利用率太低0.5-1
+  去中间值: 0.75* <p>As a general rule, the default load factor (.75)
+   offers a good tradeoff* between time and space costs. Higher values decrease the space overhead
+ (2) 主数组的长度为什么必须为 2~n:
+ 答：原因1:h & (length-1)等效 h length 操作,等效的前提就是:length必须是2的整数倍
+ 原因2:防止哈西冲突,位置冲突:
+ 验证:
+ length :8
+ 00000011hash 300000111length-1
+ ------------------
+ -----
+ 0000001100000010hash 2length-1  00000111

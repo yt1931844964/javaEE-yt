@@ -1,0 +1,13 @@
+在 Java 中，iterator()、Iterator 和 Iterable 三个是密切相关的。
+
+首先，Iterable 接口是 Java 集合框架中的一个接口，表示实现该接口的类可以被 foreach 循环语句遍历。
+Iterable 接口只有一个抽象方法 iterator()。
+
+其次，Iterator 接口表示一个迭代器，即用于遍历集合中元素的对象。Iterator 接口实现了 hasNext()、next()、remove() 等方法，
+用于获取下一个元素、判断是否还有下一个元素、删除当前元素等操作。
+
+最后，iterator() 方法是 Iterable 接口中的一个抽象方法，返回一个能够遍历集合中元素的迭代器对象。在使用 foreach 循环遍历集合时，
+会自动调用该方法获取一个迭代器来遍历集合中的元素。
+
+因此，Iterable 接口包含 iterator() 抽象方法，该方法返回 Iterator 对象，用于遍历集合中的元素。
+而 Iterator 接口则是用于遍历集合中元素的接口，提供了 hasNext()、next()、remove() 等方法。通过实现 Iterable 接口并实现其 iterator() 方法，就可以为集合类提供可遍历迭代器对象。

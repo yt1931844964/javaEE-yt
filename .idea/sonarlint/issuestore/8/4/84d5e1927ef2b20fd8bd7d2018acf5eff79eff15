@@ -1,0 +1,14 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÙø»8¦Æ”Œø1J$fd2b5630-1c6b-438d-981c-1f316d970d96
+œ
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åð8¨Æ”Œø1J$e740ccee-7f60-4f64-b301-ca8e0b898bbb
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ú•²Ó8«Æ”Œø1J$ecffb788-d6e7-4c15-9d2b-cac4f550470b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žâÖøûÿÿÿÿ8®Æ”Œø1J$1e67185d-e104-4862-8929-7db97048a2e0
+|
+java:S1118":Add a private constructor to hide the implicit public one.(›Î«N8ÌÆ”Œø1J$a784eca2-b0e4-487e-9312-db0f6cc8f439
+l	java:S106("+Replace this use of System.out by a logger.(é®»8×Æ”Œø1J$38af15e3-f382-4b0b-8d42-72541b3d3777
+‚
+java:S1118-":Add a private constructor to hide the implicit public one.(ÏÚÙ¹þÿÿÿÿ8ÜÆ”Œø1J$a8343554-05b1-4941-988c-13515c98bb5d
+m	java:S1068"+Replace this use of System.out by a logger.(Íò¾Õ8ãÆ”Œø1J$dc9b3149-ff5a-4677-bb6c-da5cff3fa701
+r	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8çÆ”Œø1J$61508a7d-3a72-4afc-a782-171a044d9716
