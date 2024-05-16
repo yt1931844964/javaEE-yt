@@ -1,0 +1,16 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛŸ´
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àø
+E	java:S106	"+Replace this use of System.out by a logger.(ÿ–×Åøÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(¸‚ïÕÿÿÿÿÿ
+J
+java:S1874
+"/Remove this use of "getYear"; it is deprecated.(¸‚ïÕÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(è·Òşÿÿÿÿ
+K
+java:S1874"0Remove this use of "getMonth"; it is deprecated.(è·Òşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ï™‚°ûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÿ™à°ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ß™¡
+@	java:S106"+Replace this use of System.out by a logger.(†­³µ

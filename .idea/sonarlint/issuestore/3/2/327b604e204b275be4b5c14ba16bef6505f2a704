@@ -1,0 +1,19 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ù«›
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ä‡­×
+@	java:S106"+Replace this use of System.out by a logger.(Ä‡­×
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚úÍÜ
+@	java:S106"+Replace this use of System.out by a logger.(‚úÍÜ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿŠëÓ
+@	java:S106"+Replace this use of System.out by a logger.(ÿŠëÓ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(˜©âÞÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(˜©âÞÿÿÿÿÿ
+l
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(º¨Ÿàÿÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(º¨Ÿàÿÿÿÿÿ

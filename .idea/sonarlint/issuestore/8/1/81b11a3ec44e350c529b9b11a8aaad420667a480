@@ -1,0 +1,42 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠˆÌ
+
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…““óûÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(ÓÆ”›şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ƒş¢°
+@	java:S106"+Replace this use of System.out by a logger.(§ ´¢
+E	java:S106"+Replace this use of System.out by a logger.(¾Ì€ÿÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(‹‚É
+@	java:S106/"+Replace this use of System.out by a logger.(˜ªÅ­
+E	java:S106;"+Replace this use of System.out by a logger.(’ëšøÿÿÿÿ
+E	java:S106D"+Replace this use of System.out by a logger.(ğàúÿÿÿÿ
+E	java:S106H"+Replace this use of System.out by a logger.(ƒ€§ÿÿÿÿÿ
+@	java:S106J"+Replace this use of System.out by a logger.(‚ì ù
+E	java:S106K"+Replace this use of System.out by a logger.(×™«ğúÿÿÿÿ
+@	java:S106P"+Replace this use of System.out by a logger.(ğ²Ìë
+E	java:S106Y"+Replace this use of System.out by a logger.(öñåüÿÿÿÿ
+@	java:S106\"+Replace this use of System.out by a logger.(‹”¤İ
+@	java:S106c"+Replace this use of System.out by a logger.(Ä²æá
+@	java:S106g"+Replace this use of System.out by a logger.(‡®
+@	java:S106l"+Replace this use of System.out by a logger.(½¢¾†
+@	java:S106v"+Replace this use of System.out by a logger.(Ø¼¢ƒ
+F	java:S106…"+Replace this use of System.out by a logger.(èçÛÎşÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ÍÕ§§ùÿÿÿÿ
+F	java:S106˜"+Replace this use of System.out by a logger.(ÙÍ†ùşÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(©­Ÿ®şÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(Ø¶’
+F	java:S106Ÿ"+Replace this use of System.out by a logger.(ĞŒ›ıÿÿÿÿ
+A	java:S106¤"+Replace this use of System.out by a logger.(ö¦¢
+F	java:S106®"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+F	java:S106¶"+Replace this use of System.out by a logger.(°í¡¦ùÿÿÿÿ
+F	java:S106»"+Replace this use of System.out by a logger.(¯£ˆ¨ıÿÿÿÿ
+A	java:S106Ä"+Replace this use of System.out by a logger.(óŞçç
+A	java:S106Ì"+Replace this use of System.out by a logger.(ÇÁœ
+A	java:S106Î"+Replace this use of System.out by a logger.(“ºÕ
+F	java:S106Ø"+Replace this use of System.out by a logger.(ÍÕ§§ùÿÿÿÿ
+F	java:S106á"+Replace this use of System.out by a logger.(ŞÖš½ÿÿÿÿÿ
+F	java:S106é"+Replace this use of System.out by a logger.(¿¤ßÇıÿÿÿÿ
+N
+java:S1135ó"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135ÿ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

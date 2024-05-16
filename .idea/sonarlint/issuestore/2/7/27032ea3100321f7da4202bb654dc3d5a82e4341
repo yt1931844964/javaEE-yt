@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚°«ý
+g
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Ä¤ï¥úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­ÂÑÆþÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¬˜ƒN

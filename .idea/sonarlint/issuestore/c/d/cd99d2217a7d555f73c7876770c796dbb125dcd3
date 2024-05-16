@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«”þ®
+i
+java:S3824/"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ì±Ä¨øÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(õÎžê
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¶“™Öüÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(¶“™Öüÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(â•áë
+U
+java:S1118+":Add a private constructor to hide the implicit public one.(ºÈ±òûÿÿÿÿ

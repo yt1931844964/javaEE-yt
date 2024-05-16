@@ -1,0 +1,17 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(Ù©ÛS
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¿Èµÿÿÿÿÿ
+f
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠ
+^
+java:S6355	"HAdd 'since' and/or 'forRemoval' arguments to the @Deprecated annotation.(õˆúš
+P
+java:S1133
+"5Do not forget to remove this deprecated code someday.(îúÀÓýÿÿÿÿ
+C
+java:S1123
+"(Add the missing @deprecated Javadoc tag.(îúÀÓýÿÿÿÿ
+t
+java:S3012&"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(†¾í€ùÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(Õ²úÿÿÿÿ

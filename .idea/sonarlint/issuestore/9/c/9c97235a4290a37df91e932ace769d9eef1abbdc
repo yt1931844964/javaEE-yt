@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠˆÌ
+g	java:S116"RRename this field "OrderID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ôË
+h	java:S116"SRename this field "Ordernum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õºš
+i	java:S116
+"URename this field "Orderprice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛúçB
+j	java:S116"URename this field "OrderValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ›»«
+M
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ

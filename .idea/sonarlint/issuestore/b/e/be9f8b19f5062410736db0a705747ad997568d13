@@ -1,0 +1,17 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¶¶z
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Š¯Ïèùÿÿÿÿ
+i
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¾Üè¥þÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Õ±ì¬
+f
+java:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(¨ßÞË
+\
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(â˜äˆýÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(˜ÙªÌ
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Õ±ì¬

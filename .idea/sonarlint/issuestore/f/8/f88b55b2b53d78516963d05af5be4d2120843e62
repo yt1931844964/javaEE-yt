@@ -1,0 +1,9 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶«¡ë
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŽÀøž
+P
+java:S1854"5Remove this useless assignment to local variable "d".(¹¯ç©øÿÿÿÿ
+A
+java:S1481"&Remove this unused "d" local variable.(¹¯ç©øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ôê•´

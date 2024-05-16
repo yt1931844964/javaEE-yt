@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûßûèýÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ôýÆš
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æþÿÿÿÿ
+\
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(û¶Éôÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(†™ñ‹
+@	java:S106"+Replace this use of System.out by a logger.(«“µù
+?	java:S106#"+Replace this use of System.out by a logger.(ƒÚáB

@@ -1,0 +1,52 @@
+
+E
+java:S3740K"/Provide the parametrized type for this generic.(–Ÿ
+J
+java:S3740L"/Provide the parametrized type for this generic.(ààÂ¡øÿÿÿÿ
+D
+java:S3740W"/Provide the parametrized type for this generic.(õ—†m
+J
+java:S3740X"/Provide the parametrized type for this generic.(ÍÑÿ±øÿÿÿÿ
+D
+java:S3740`"/Provide the parametrized type for this generic.(±êú*
+D
+java:S3740`"/Provide the parametrized type for this generic.(±êú*
+C
+java:S1604X"(Make this anonymous inner class a lambda(ÍÑÿ±øÿÿÿÿ
+=
+java:S1604`"(Make this anonymous inner class a lambda(±êú*
+b	java:S101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÃİ
+g	java:S101B"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Šû¦ïüÿÿÿÿ
+g	java:S101L"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ààÂ¡øÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²„ÿşüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ˆ ëÌşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ö¡¹ê
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+R
+java:S1117!"7Rename "age" which hides the field declared at line 13.(œ¿ô¿úÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Ş¶È¬ÿÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(ôÌ¿ò
+R
+java:S11177"7Rename "age" which hides the field declared at line 48.(±€œûÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(õ£–¦üÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(ğïÃåûÿÿÿÿ
+@	java:S106:"+Replace this use of System.out by a logger.(Ç¼£Ò
+E	java:S106D"+Replace this use of System.out by a logger.(€¤½¸üÿÿÿÿ
+o
+java:S1210O"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+o
+java:S1210Z"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+o
+java:S1210b"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+@	java:S106f"+Replace this use of System.out by a logger.(âÛˆ
+Q
+java:S1854s"6Remove this useless assignment to local variable "hh".(¢ÃÄŒøÿÿÿÿ
+L
+java:S1854p"6Remove this useless assignment to local variable "to".(Ò à‚
+=
+java:S1481p"'Remove this unused "to" local variable.(Ò à‚
+B
+java:S1481s"'Remove this unused "hh" local variable.(¢ÃÄŒøÿÿÿÿ

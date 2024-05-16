@@ -1,0 +1,8 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®œå—üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ŸìÃ
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ØŽ›Ý
+W
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(Í²Œ—

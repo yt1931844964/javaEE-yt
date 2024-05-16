@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºªäÜ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÑªÇ«ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Áùòüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(²œƒÈ
+@	java:S106"+Replace this use of System.out by a logger.(ı‰ÖÆ
+E	java:S106"+Replace this use of System.out by a logger.(Ş‡òüûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—çúÈøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¹°ü‹
+@	java:S106"+Replace this use of System.out by a logger.(ËËÖ›
+@	java:S106"+Replace this use of System.out by a logger.(÷Š§÷
+E	java:S106"+Replace this use of System.out by a logger.(¿„· øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(™âóùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÓÉÎùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Á£®ƒ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(†ªÕ ÿÿÿÿÿ
+P	java:S899";Do something with the "boolean" value returned by "delete".(¦¥ĞŸ
+d
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¦¥ĞŸ
+E	java:S106$"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(™Û¶
+?	java:S106)"+Replace this use of System.out by a logger.(·Œ¹

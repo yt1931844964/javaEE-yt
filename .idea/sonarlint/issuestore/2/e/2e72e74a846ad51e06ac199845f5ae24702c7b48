@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òßêàúÿÿÿÿJ$6336e5bd-88c7-44fa-b38a-c348715f25a3
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø‚¨!J$3a0d973c-0de6-44ef-9671-579ac8dc69df
+|	java:S125"<This block of commented-out lines of code should be removed.(—…µíÿÿÿÿÿJ$77711f13-243d-438f-9efc-cfb9285665ff
+]
+java:S2129"!Remove this "Integer" constructor(İ—¾…J$7fb36bf1-99db-4e56-a5c5-40709c44faf1
+„
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(İ—¾…J$73f871a6-74e0-414c-881c-bc94cbb7b801
+k	java:S106
+"+Replace this use of System.out by a logger.(ª¡ïöúÿÿÿÿJ$47df10e9-221c-47bf-8e88-8ff0d29a9f35
+„
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ì‘ƒJ$309adc89-baab-45b3-9ef5-956e85613ce1
+f	java:S106"+Replace this use of System.out by a logger.(°½ÃJ$f29c913f-d6a1-4a28-8821-33171d554a0c
+|	java:S125"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿJ$f537be26-e314-4b7b-9d44-95ff2da8f38f

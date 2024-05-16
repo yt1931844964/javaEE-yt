@@ -1,0 +1,26 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(üˆ’ƒ
+J
+java:S3740+"/Provide the parametrized type for this generic.(±™Œ¹øÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(Ù¾²’ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¦´Â
+E	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(È©ƒ«
+E	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(È©ƒ«
+@	java:S106"+Replace this use of System.out by a logger.(£·®
+E	java:S106"+Replace this use of System.out by a logger.(‡»åâüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ºü“
+E	java:S106 "+Replace this use of System.out by a logger.(éçž¬ùÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(½Æ‡¦
+@	java:S106&"+Replace this use of System.out by a logger.(ôæ­ê
+@	java:S106("+Replace this use of System.out by a logger.(óÜ³Â
+@	java:S106,"+Replace this use of System.out by a logger.(Áß‡Ü
+E	java:S106."+Replace this use of System.out by a logger.(ÀÏ°ýÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(Áß‡Ü
+@	java:S1069"+Replace this use of System.out by a logger.(ÐÛâï
+I
+java:S1874>"3Remove this use of "newInstance"; it is deprecated.(¼Ç—Î

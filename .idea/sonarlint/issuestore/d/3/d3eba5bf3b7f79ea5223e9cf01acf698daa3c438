@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íå®³
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(…ÈÏ¥úÿÿÿÿ
+r
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(…ÈÏ¥úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Êþÿò
+@	java:S106"+Replace this use of System.out by a logger.(°„Ÿ
+E	java:S106"+Replace this use of System.out by a logger.(œ³ðÙùÿÿÿÿ

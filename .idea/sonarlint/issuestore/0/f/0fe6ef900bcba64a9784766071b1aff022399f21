@@ -1,0 +1,20 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(±ÿó üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(±ÿó üÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(ºÉë‚ûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡Ý€Úþÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¶¯Ëþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ð˜Œýùÿÿÿÿ
+S
+java:S3878"8Remove this array creation and simply pass the elements.(ÈÙ‚Žûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ˆ¿¶Ÿ
+@	java:S106""+Replace this use of System.out by a logger.(¶±åý
+E	java:S106%"+Replace this use of System.out by a logger.(¢ÈŸÕþÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.(ú“‹ºùÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(øÓÉ”øÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(Äâþ¤ýÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(Ú“ÜÝ
+E	java:S1064"+Replace this use of System.out by a logger.(“€¯Èúÿÿÿÿ

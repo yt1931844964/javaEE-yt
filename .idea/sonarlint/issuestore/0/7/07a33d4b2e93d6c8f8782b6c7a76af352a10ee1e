@@ -1,0 +1,10 @@
+
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ú®ëûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êâ— 
+Z
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ü‹ç"
+E	java:S106"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ
+V
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ü‹ç"
+@	java:S106"+Replace this use of System.out by a logger.(Î€ŠÚ

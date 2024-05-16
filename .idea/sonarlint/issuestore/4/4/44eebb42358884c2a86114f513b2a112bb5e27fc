@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•³šøøÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "string".(¶Áˆ®ıÿÿÿÿ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+F
+java:S1481"+Remove this unused "string" local variable.(¶Áˆ®ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(³°™‰
+E	java:S106"+Replace this use of System.out by a logger.(ö”í£ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(äã–
+E	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ
+C
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
+f	java:S1280"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+f	java:S128."LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ
+7	java:S131-""Add a default case to this switch.(¨è˜ƒ
+@	java:S106/"+Replace this use of System.out by a logger.(Åµ†‹
+@	java:S1061"+Replace this use of System.out by a logger.(Åµ†‹
+@	java:S1063"+Replace this use of System.out by a logger.(ûåóˆ

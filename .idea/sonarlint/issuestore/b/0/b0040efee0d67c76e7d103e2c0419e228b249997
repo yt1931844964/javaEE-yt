@@ -1,0 +1,23 @@
+
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µüÙs
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+@	java:S106
+"+Replace this use of System.out by a logger.(¹¹¡‚
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+E	java:S106"+Replace this use of System.out by a logger.(ı±ÙÈşÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+@	java:S106"+Replace this use of System.out by a logger.(ü¯Í
+K
+java:S1854""5Remove this useless assignment to local variable "a".(ÁŸÑ
+<
+java:S1481""&Remove this unused "a" local variable.(ÁŸÑ
+t
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+@	java:S106/"+Replace this use of System.out by a logger.(ü¯Í
+t
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€

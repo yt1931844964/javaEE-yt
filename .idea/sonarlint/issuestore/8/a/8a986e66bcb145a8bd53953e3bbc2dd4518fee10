@@ -1,0 +1,26 @@
+
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S5411'"(Use a primitive boolean expression here.(ûÅŸ
+>
+java:S54119"(Use a primitive boolean expression here.(«¸ş•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“£‰ì
+=
+java:S1125'"'Remove the unnecessary boolean literal.(ûÅŸ
+Q
+java:S2274(";Remove this call to "await" or move it into a "while" loop.(è·¾
+E	java:S106*"+Replace this use of System.out by a logger.(³¦ıêúÿÿÿÿ
+=
+java:S11259"'Remove the unnecessary boolean literal.(«¸ş•
+t
+java:S2142<"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+V
+java:S2274;";Remove this call to "await" or move it into a "while" loop.(ŒØ†Úÿÿÿÿÿ
+@	java:S106C"+Replace this use of System.out by a logger.(²”‘¿
+P
+java:S1161R":Add the "@Override" annotation above this method signature(âÚ¤Î
+t
+java:S2142V"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+P
+java:S1161d":Add the "@Override" annotation above this method signature(“–ış

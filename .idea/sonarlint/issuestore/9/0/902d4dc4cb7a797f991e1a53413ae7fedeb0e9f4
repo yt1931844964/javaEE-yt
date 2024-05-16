@@ -1,0 +1,32 @@
+
+‹
+java:S1192."pDefine a constant instead of duplicating this literal "----------------åŠ å¼ºforéåŽ†----------------" 3 times.(‘íÍäøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï…Áòüÿÿÿÿ
+_
+java:S4143"DVerify this is the key that was intended; it was already set before.(ƒùÄÔùÿÿÿÿ
+_
+java:S4143"DVerify this is the key that was intended; it was already set before.(ÎÙÒþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(÷ ì²
+E	java:S106"+Replace this use of System.out by a logger.(ÌäãÛþÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(÷ ì²
+E	java:S106 "+Replace this use of System.out by a logger.(ÌäãÛþÿÿÿÿ
+?	java:S106""+Replace this use of System.out by a logger.(˜°à{
+E	java:S106#"+Replace this use of System.out by a logger.(¿ ³Ûýÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(•ÅÄŒ
+F
+java:S2201%"+The return value of "isEmpty" must be used.(Œ÷Ýæÿÿÿÿÿ
+G
+java:S2201(",The return value of "entrySet" must be used.(š¢÷úÿÿÿÿ
+=
+java:S2201)"'The return value of "get" must be used.(Ðƒ¾¿
+E
+java:S2201*"*The return value of "keySet" must be used.(¨€šÆÿÿÿÿÿ
+E
+java:S2201+"*The return value of "values" must be used.(Â‹ÝŸþÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(‘íÍäøÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(‚é€Þûÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(‘íÍäøÿÿÿÿ
+E	java:S1068"+Replace this use of System.out by a logger.(Ã¸¬¤ùÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(‘íÍäøÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(¥²˜Å

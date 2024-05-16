@@ -1,0 +1,13 @@
+
+ƒ
+java:S1192"HDefine a constant instead of duplicating this literal "Cost: $" 3 times.(ª¼î`J$ff95ee90-be2b-4060-a419-c1f405daedfe
+‹
+java:S1192"PDefine a constant instead of duplicating this literal ", Description: " 3 times.(ª¼î`J$81acf55f-7b96-43d0-85f6-388dde87d75d
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«”þ®J$bce2e46b-5d11-4e43-90e4-a8e489860169
+e	java:S106"+Replace this use of System.out by a logger.(ª¼î`J$f62e66cf-2874-414f-ac28-630d97521fa9
+e	java:S106"+Replace this use of System.out by a logger.(â÷’KJ$2a378077-583c-44e7-918f-e67385c43b00
+f	java:S106"+Replace this use of System.out by a logger.(ÛÒØŽJ$826e4f9a-5445-4a62-966e-fc7709ad0707
+u
+java:S5993+"9Change the visibility of this constructor to "protected".(Ð¸ïÚJ$d33963d5-c397-41c0-be6c-0fbc7f4b6580
+†
+java:S1124("EReorder the modifiers to comply with the Java Language Specification.(òÁ‹ûÿÿÿÿÿJ$2b56e499-f1d3-4f64-8f08-9de74d903a3a

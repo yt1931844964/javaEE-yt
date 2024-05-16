@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¹Óò
+T
+java:S5993
+"9Change the visibility of this constructor to "protected".(¾ÆÆ§ÿÿÿÿÿ
+K
+java:S1854,"5Remove this useless assignment to local variable "p".(şÉè
+P
+java:S1854*"5Remove this useless assignment to local variable "b".(¶†ßúüÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(½ñ­Ñ
+A
+java:S1481*"&Remove this unused "b" local variable.(¶†ßúüÿÿÿÿ
+<
+java:S1481,"&Remove this unused "p" local variable.(şÉè

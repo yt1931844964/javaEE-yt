@@ -1,0 +1,25 @@
+
+E
+java:S3740
+"/Provide the parametrized type for this generic.(üˆ’ƒ
+E
+java:S3740#"/Provide the parametrized type for this generic.(ğßëÿ
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÄÈ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÕŞùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‡¤Ÿ”
+@	java:S106"+Replace this use of System.out by a logger.(Œ€ÿ
+@	java:S106"+Replace this use of System.out by a logger.(‡¤Ÿ”
+@	java:S106"+Replace this use of System.out by a logger.(ò¤µæ
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+@	java:S106"+Replace this use of System.out by a logger.(¨³Ë
+?	java:S106"+Replace this use of System.out by a logger.(Èëêd
+E	java:S106"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(»íÈèüÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(’ˆµ³ıÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(ÄÈ ‰
+E	java:S106'"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ
+I
+java:S1874*"3Remove this use of "newInstance"; it is deprecated.(Ôƒ×ˆ
+G
+java:S3011+",This accessibility bypass should be removed.(Õ§—Üûÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(Áªø

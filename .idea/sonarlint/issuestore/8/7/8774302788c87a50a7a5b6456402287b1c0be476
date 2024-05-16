@@ -1,0 +1,28 @@
+
+g	java:S101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°óÎÿûÿÿÿÿ
+a	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆÇ‚^
+b	java:S101="MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ìˆá«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÄÓá
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ší†Â
+?	java:S106"+Replace this use of System.out by a logger.( âÝ
+7
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¸‡ü¡ýÿÿÿÿ
+?	java:S106*"+Replace this use of System.out by a logger.(ÄºöY
+U
+java:S11613":Add the "@Override" annotation above this method signature(ŸøøÆøÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(—Ê²ùÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(öØ¯“ýÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(íŒœùÿÿÿÿ
+@	java:S106C"+Replace this use of System.out by a logger.(û†×–
+K
+java:S2209C"5Change this instance-reference to a static reference.(û†×–
+E	java:S106E"+Replace this use of System.out by a logger.(ßä›ùÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(©ðôÔÿÿÿÿÿ
+S
+java:S3252F"8Use static access with "javaåŸºç¡€.æŽ¥å£.Test" for "a".(©ðôÔÿÿÿÿÿ
+@	java:S106I"+Replace this use of System.out by a logger.(Ñ¹¥ü
+K
+java:S2209I"5Change this instance-reference to a static reference.(Ñ¹¥ü
+K
+java:S2209O"5Change this instance-reference to a static reference.(Á¸£Å

@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÂÂ…
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏèæÓûÿÿÿÿ
+k
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "A".(ÙÂÂ…
+:
+java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿ
+<
+java:S1481"&Remove this unused "A" local variable.(ÙÂÂ…

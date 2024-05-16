@@ -1,0 +1,11 @@
+
+^
+java:S1192&"HDefine a constant instead of duplicating this literal "Index: " 3 times.(à¡Œî
+_
+java:S1192&"IDefine a constant instead of duplicating this literal ", Size: " 3 times.(à¡Œî
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öá¸øÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÎğûÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(áĞŠËÿÿÿÿÿ
+E	java:S106~"+Replace this use of System.out by a logger.(·úçõşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ûêúÿÿÿÿ

@@ -1,0 +1,38 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®„¹“ıÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "s3".(£ñË
+L
+java:S1854"6Remove this useless assignment to local variable "s2".(ŸŞ‰
+L
+java:S1854
+"6Remove this useless assignment to local variable "s1".(íøÀê
+6
+java:S2129
+" Remove this "String" constructor(íøÀê
+=
+java:S1481
+"'Remove this unused "s1" local variable.(íøÀê
+6
+java:S2129" Remove this "String" constructor(ŸŞ‰
+=
+java:S1481"'Remove this unused "s2" local variable.(ŸŞ‰
+=
+java:S1481"'Remove this unused "s3" local variable.(£ñË
+@	java:S106"+Replace this use of System.out by a logger.(ÇÏÃ¥
+E	java:S106"+Replace this use of System.out by a logger.(¿©‘äúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(§ËÀ³
+E	java:S106"+Replace this use of System.out by a logger.(åËÂÁøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ëŒöúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(º£½
+@	java:S106"+Replace this use of System.out by a logger.(˜Ü€Œ
+@	java:S106"+Replace this use of System.out by a logger.(ö—áÃ
+E	java:S106"+Replace this use of System.out by a logger.(¨¹÷øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(”Ë±Ğÿÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(Ş¾ÖŠ
+@	java:S106#"+Replace this use of System.out by a logger.(ô¡æã
+@	java:S106%"+Replace this use of System.out by a logger.(Êïªó
+Z
+java:S1858%"D"s" is already a string, there's no need to call "toString()" on it.(Êïªó
+?	java:S106'"+Replace this use of System.out by a logger.(ÁÜ¨}

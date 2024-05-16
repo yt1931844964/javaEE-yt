@@ -1,0 +1,16 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïæ²œ
+g	java:S101<"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ Çûÿÿÿÿ
+b	java:S101B"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(… Ó
+b	java:S101G"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñ¤ö¸
+b	java:S101L"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²¾ôÛ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ºïø
+o
+java:S12102"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(™æ±û
+V	java:S1254"<This block of commented-out lines of code should be removed.(ŸµÇºÿÿÿÿÿ
+D
+java:S19058")Remove this unnecessary cast to "Double".(ú•¹“þÿÿÿÿ
+D
+java:S1905I")Remove this unnecessary cast to "Double".(ƒ®±úÿÿÿÿ
+D
+java:S1905R")Remove this unnecessary cast to "Double".(ƒ®±úÿÿÿÿ
